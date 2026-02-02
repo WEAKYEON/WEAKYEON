@@ -29,7 +29,5 @@ I'm a **Computer Science Student** at Srinakharinwirot University (SWU), passion
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=WEAKYEON&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WEAKYEON&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[![General Stats](https://github-readme-stats.vercel.app/api?username=WEAKYEON&show_icons=true&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api?username=WEAKYEON&show_icons=true&theme=tokyonight)
+
