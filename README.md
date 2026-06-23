@@ -1,15 +1,15 @@
-### Hi there, I'm Tanat! 👋
+### Hi there, I'm Tanat!
 
 I'm a **Computer Science Student** at Srinakharinwirot University (SWU), passionate about turning data into actionable insights and building intelligent applications.
 
-- 🔭 I’m currently working on **End-to-End AI Solutions**
-- 🏆 **Achievements:** Winner of Best Technical Skill Award (ToBeIT'67 Hackathon)
-- 💬 Ask me about **Python, Data Analytics, and Flutter**
-- 📫 How to reach me: **t.kunharee@gmail.com**
+- I’m currently working on **End-to-End AI Solutions**
+- **Achievements:** Winner of Best Technical Skill Award (ToBeIT'67 Hackathon)
+- Ask me about **Python, Data Analytics, and Flutter**
+- How to reach me: **t.kunharee@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,7 +27,7 @@ I'm a **Computer Science Student** at Srinakharinwirot University (SWU), passion
 
 ---
 
-### 🚀 Let's Connect
+### Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/tanat-kunharee" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tanat-kunharee" /></a>
